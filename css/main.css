@@ -1,0 +1,20 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:boarder-box;
+ }
+/* <div class="wrap" style="background:#789;font:300 1.4em sans-serif;height:100vh;display:grid;place-content:center;text-align:center;">    */
+
+.wrap{
+  background:#789;
+  font:300 1.4rem sans-serif;
+  height:100vh;
+  display:grid;
+  place-content:center;
+  text-align: center;
+}
+
+button{
+  width:13rem;
+  padding:12rem;
+}
